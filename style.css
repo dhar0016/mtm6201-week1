@@ -7,5 +7,10 @@ body{
     background-color: aquamarine;
     color: rgb(53, 135, 207);
     border-radius: 3px;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
 }
+
+
 
