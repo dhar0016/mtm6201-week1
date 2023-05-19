@@ -19,7 +19,7 @@ p {
 
 }
 
-.info img {
+.info img { /*Fix the image properties*/
     float: left;
     max-width: 150px;
     width: 100%;
@@ -28,4 +28,28 @@ p {
     padding-top: 0px;
 }
 
+
+.info p { 
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 23px;
+    font-family: sans-serif;
+}
+
+
+.description {
+    width: 100%;
+    border-radius: 3px;
+    padding-top: 1px;
+    padding-left: 12px;
+    padding-bottom: 3px;
+    font-family: sans-serif;
+}
+
+.description .title { /*bold the title */
+    font-weight: bolder;
+    font-size: 1.32rem;
+    padding-bottom: 2px;
+    padding-top: 2px;
+}
 
