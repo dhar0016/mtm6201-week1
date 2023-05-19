@@ -4,8 +4,6 @@ body{
 }
 
 .wrapper {
-    background-color: aquamarine;
-    color: rgb(53, 135, 207);
     border-radius: 3px;
     max-width: 600px;
     margin: 0 auto;
@@ -51,5 +49,5 @@ p {
     font-size: 1.32rem;
     padding-bottom: 2px;
     padding-top: 2px;
-}
 
+}
